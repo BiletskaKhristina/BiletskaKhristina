@@ -11,7 +11,12 @@
 - JavaScript (ES6+)  
 - React  
 - Git / GitHub  
-
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JS](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Git](https://img.shields.io/badge/-Git-black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717)
 ---
 ## 🚀 Projects
 
@@ -62,9 +67,3 @@ Frontend Developer
 ## 📫 Contact me
 - Email: khrista.biletcka7@gmail.com 
 - Telegram: https://t.me/khrysttinka 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JS](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-61DAFB)
-![Git](https://img.shields.io/badge/-Git-black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717)
