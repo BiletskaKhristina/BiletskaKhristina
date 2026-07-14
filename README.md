@@ -7,10 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-- HTML5 / CSS3 / SCSS  
-- JavaScript (ES6+)  
-- React  
-- Git / GitHub  
+
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JS](https://img.shields.io/badge/-JavaScript-yellow)
