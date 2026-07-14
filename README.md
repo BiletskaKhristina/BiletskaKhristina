@@ -60,8 +60,8 @@ Frontend Developer
 ---
 
 ## 📫 Contact me
-- Email: your@email.com  
-- Telegram: @yourusername  
+- Email: khrista.biletcka7@gmail.com 
+- Telegram: https://t.me/khrysttinka 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JS](https://img.shields.io/badge/-JavaScript-yellow)
